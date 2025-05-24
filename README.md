@@ -1,5 +1,4 @@
 
-
 ```markdown
 # Expert Hacker Prompts for HTB CPTS Preparation
 
